@@ -6,6 +6,6 @@ Meu nome é Marianne Suffi
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Entre em contato comigo 📫
+### Entre em contato comigo 📫
 
-  marianne.suffi@escola.pr.gov.br
+marianne.suffi@escola.pr.gov.br
